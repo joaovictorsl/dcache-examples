@@ -1,0 +1,17 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/joaovictorsl/dcache v0.0.0-20240302013737-4e47978a15c4 h1:HFD1KUhcZvtcu7KzcJuWkomif1V0APaw54atPZKTj6Q=
+github.com/joaovictorsl/dcache v0.0.0-20240302013737-4e47978a15c4/go.mod h1:vHTU9iTG2+BL2bbJU29zUrOpHro1hWgzWqrWjcJi5xk=
+github.com/joaovictorsl/dcache v0.0.0-20240323050457-d50b333ea417 h1:VxS0kQ+WoYuUQTQGW2fHC3ffiIcDasUZeRmLhGDQBys=
+github.com/joaovictorsl/dcache v0.0.0-20240323050457-d50b333ea417/go.mod h1:LfyPNW0KLMluNp44+ClvMimVNt0KupcJ7KvYgB5JbdI=
+github.com/joaovictorsl/fooche v0.0.0-20240323045813-ad9ffc9aebe6 h1:k/GdsMwym7diskOCqZ7uJLrEqghBI0z+2WkYgPEDfaE=
+github.com/joaovictorsl/fooche v0.0.0-20240323045813-ad9ffc9aebe6/go.mod h1:oNVDqRvSj4AvFK82aMLpz/XLgNmVVMezdaBv34J6IzM=
+github.com/joaovictorsl/gollections v0.0.0-20240225183410-42aed52553f8 h1:eH7+Ioz2wiYd28JyvJE1MgfvQK2FjZPyOPCsv22tZH8=
+github.com/joaovictorsl/gollections v0.0.0-20240225183410-42aed52553f8/go.mod h1:CzgDZ/8fXHWjyBHJUZlFAQTNa5fh/wEgqfx36Ng8CDE=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/zeromicro/go-zero v1.6.2 h1:c1gXp6JTO0e+dtfwNZRE7OZgzjipfW8i1iBMoBnDwBI=
+golang.org/x/exp v0.0.0-20240119083558-1b970713d09a h1:Q8/wZp0KX97QFTc2ywcOE0YRjZPVIx+MXInMzdvQqcA=
+golang.org/x/exp v0.0.0-20240119083558-1b970713d09a/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
+golang.org/x/exp v0.0.0-20240222234643-814bf88cf225 h1:LfspQV/FYTatPTr/3HzIcmiUFH7PGP+OQ6mgDYo3yuQ=
+golang.org/x/exp v0.0.0-20240222234643-814bf88cf225/go.mod h1:CxmFvTBINI24O/j8iY7H1xHzx2i4OsyguNBmN/uPtqc=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
